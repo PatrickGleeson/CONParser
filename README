@@ -1,0 +1,8 @@
+#CONParser
+
+CON (Crooked Object Notation) is a means of storing complex data structures in a plain text file in a manner that is 
+human readable and intuitive.
+
+The file starts with describing the data structures that will be used with each layer indented by tabs. Then this data 
+structure is populated with data, with each item on a seperate line and lines indented depending on depth in the 
+structure.
